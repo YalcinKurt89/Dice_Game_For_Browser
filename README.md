@@ -4,7 +4,6 @@
 
 This is a simple dice game created for browsers. It allows players to roll dice and enjoy a fun gaming experience.
 
-[Play the Game](https://yalcinkurt89.github.io/dice_game_for_browser/index.html)
 
 ## How to Play
 
