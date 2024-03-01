@@ -1,4 +1,5 @@
 # Dice Game For Browser
+## This game was created as part of an online course by Dr. Angela Yu. The game was created step by step with tasks.
 
 <img src="https://raw.githubusercontent.com/YalcinKurt89/dice_game_for_browser/main/images/Homepage.jpg" alt="Alt-Text" width="300"/>
 
